@@ -97,3 +97,47 @@ a{
 	color: grey;
 }
 
+
+.rooms-title{
+	font-family: "Georgia";
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.booking-button{
+	height: 40px;
+	width: 150px;
+	padding: 10px;
+	font-size: 18px;
+	background-color: transparent;
+	color: #f0a73a;
+	border: 1px solid #f0a73a;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+.booking-button:hover{
+	background-color: #f0a73a;
+	color: white;
+}
+
+.card{
+	border: 1px solid #f0a73a;
+	border-radius: 15px;
+	padding: 10px;
+	text-align: center;
+	margin-left: 15px;
+}
+
+.card-image{
+	width: 80%;
+	max-width: 400px;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+
+.card-price{
+	font-size: 22px;
+	color: grey;
+}
+
