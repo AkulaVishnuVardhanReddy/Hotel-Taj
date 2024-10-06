@@ -76,3 +76,24 @@ a{
 	color: white;
 	border:none;
 }
+
+
+#booking{
+	padding: 30px;
+}
+
+.home-heading{
+	font-family: "Courier";
+	font-size: 32px;
+	color: black;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+
+.home-para{
+	font-family: "Georgia";
+	font-size: 18px;
+	color: grey;
+}
+
