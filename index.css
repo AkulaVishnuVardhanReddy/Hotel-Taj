@@ -37,3 +37,42 @@ a{
 .title-links:hover{
 	text-decoration: underline;
 }
+
+.home-background{
+	background-image: url("Images/homeBackground.webp");
+	height:100vh;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.home-title{
+	font-family: "Comic Sans MS";
+	font-size: 48px;
+	font-weight: bold;
+	color: white;
+}
+
+.home-description{
+	font-family: Georgia;
+	font-size: 20px;
+	color: #3ff2d6;
+}
+
+.button{
+	height: 40px;
+	width: 150px;
+	border: 1px solid white;
+	background-color: transparent;
+	border-radius: 20px;
+	font-family: Georgia;
+	color: white;
+	font-size: 18px;
+	margin-left: 90px;
+	margin-right: 20px;
+}
+
+.button:hover{
+	background-color: #f0a73a;
+	color: white;
+	border:none;
+}
