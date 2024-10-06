@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.top-container{
+	height: 13vh;
+	border-bottom: 2px solid #f0a73a;
+	display: flex;
+	padding: 5px;
+	background-color: white;
+	justify-content: space-between;
+}
+
+.main-title{
+	font-family: bree-serif;
+	font-size: 28px;
+	color: #f0a73a;
+}
+
+.title-links{
+	font-family: "Courier";
+	font-size: 22px;
+	color: #f0a73a;
+	margin-top: 23px;
+	font-weight: bold;
+	margin-right: 30px;
+}
+
+.title-links:hover{
+	text-decoration: underline;
+}
